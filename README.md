@@ -15,8 +15,5 @@
 </ul>
 <p style="text-align: right;">&nbsp;</p>
 
-<<<<<<< HEAD
+
 ![Фото](img/j6HhoR709zw.jpg)
-=======
-![Фото](img/j6HhoR709zw.jpg)
->>>>>>> fbff8a4b658df754c5b9f0d458631f04511c2f07
